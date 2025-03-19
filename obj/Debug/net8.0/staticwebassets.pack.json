@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\pewah\\Desktop\\REPOS\\BlogJournal\\wwwroot\\functions.js",
+      "PackagePath": "staticwebassets\\functions.js"
+    },
+    {
+      "Id": "c:\\Users\\pewah\\Desktop\\REPOS\\BlogJournal\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "c:\\Users\\pewah\\Desktop\\REPOS\\BlogJournal\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlogJournal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlogJournal.props",
+      "PackagePath": "build\\BlogJournal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlogJournal.props",
+      "PackagePath": "buildMultiTargeting\\BlogJournal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlogJournal.props",
+      "PackagePath": "buildTransitive\\BlogJournal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

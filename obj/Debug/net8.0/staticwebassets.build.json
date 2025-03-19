@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "TjlPKQbIDuxsGsNTGp5nD01k11qBq+gTWI18ZaKwWE0=",
+  "Source": "BlogJournal",
+  "BasePath": "_content/BlogJournal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlogJournal\\wwwroot",
+      "Source": "BlogJournal",
+      "ContentRoot": "c:\\Users\\pewah\\Desktop\\REPOS\\BlogJournal\\wwwroot\\",
+      "BasePath": "_content/BlogJournal",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "c:\\Users\\pewah\\Desktop\\REPOS\\BlogJournal\\wwwroot\\functions.js",
+      "SourceId": "BlogJournal",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\pewah\\Desktop\\REPOS\\BlogJournal\\wwwroot\\",
+      "BasePath": "_content/BlogJournal",
+      "RelativePath": "functions.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\functions.js"
+    },
+    {
+      "Identity": "c:\\Users\\pewah\\Desktop\\REPOS\\BlogJournal\\wwwroot\\index.html",
+      "SourceId": "BlogJournal",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\pewah\\Desktop\\REPOS\\BlogJournal\\wwwroot\\",
+      "BasePath": "_content/BlogJournal",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "c:\\Users\\pewah\\Desktop\\REPOS\\BlogJournal\\wwwroot\\styles.css",
+      "SourceId": "BlogJournal",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\pewah\\Desktop\\REPOS\\BlogJournal\\wwwroot\\",
+      "BasePath": "_content/BlogJournal",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}

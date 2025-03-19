@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBlogEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BlogEntry>
+    <Id>1</Id>
+    <Title>Hello From Front-End</Title>
+    <Body>The front-end is now operational! Nicely done!
+Update: I just updated this blog.</Body>
+    <Posted>2025-03-06T23:08:38.571712-05:00</Posted>
+  </BlogEntry>
+  <BlogEntry>
+    <Id>2</Id>
+    <Title>Late Night</Title>
+    <Body>Did a lot of work. Feeling quite accomplished.</Body>
+    <Posted>2025-03-07T00:17:46.012909-05:00</Posted>
+  </BlogEntry>
+</ArrayOfBlogEntry>

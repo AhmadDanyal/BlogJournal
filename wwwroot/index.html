@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Blog</title>
+    <link rel="stylesheet" href="/styles.css">
+    <script defer src="/functions.js"></script>
+    <!-- Link to Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Georgia:wght@400;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1 class="main-title">My Blog</h1>
+        <div id="entries"></div>
+
+        <h2>New Blog Entry</h2>
+        <form id="entryForm" onsubmit="addEntry(event)">
+            <input type="text" id="id" placeholder="Id" required />
+            <input type="text" id="title" placeholder="Title" required />
+            <textarea id="body" placeholder="Body" required></textarea>
+            <button type="submit">Add Entry</button>
+        </form>
+
+        <div id="update-section" style="display: none;">
+            <h2>Edit Blog</h2>
+            <form id="updateForm" onsubmit="updateBlog(event)">
+                <input type="hidden" id="update-id" />
+                <input type="text" id="update-title" placeholder="Title" required />
+                <textarea id="update-body" placeholder="Body" required></textarea>
+                <button type="submit">Update Entry</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
